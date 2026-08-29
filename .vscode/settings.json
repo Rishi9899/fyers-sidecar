@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/fyers-sidecar/venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "files.associations": {
+    "*.env": "properties"
+  }
+}
